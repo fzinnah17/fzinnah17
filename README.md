@@ -1,11 +1,8 @@
 ### Hi there 👋
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fzinnah17&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=fzinnah17&show_icons=true&theme=radical&cache_seconds=0)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fzinnah17&layout=compact)](https://github.com/fzinnah17/github-readme-stats)
-
-[![Github activity graph](https://activity-graph.herokuapp.com/graph?username=fzinnah17&theme=react-dark)](https://github.com/fzinnah17/github-readme-activity-graph)
-
 
 
 <!--
