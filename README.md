@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Dynamic Badge](https://fzinnah-dynamic-badges.vercel.app/api/badge?label=Hello&message=World)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fzinnah17&show_icons=true&theme=radical&cache_seconds=0)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fzinnah17&layout=compact)](https://github.com/fzinnah17/github-readme-stats)
