@@ -1,8 +1,13 @@
 ### Hi there 👋
 
+
+![Metrics](https://metrics.lecoq.io/fzinnah17?template=classic&base.metadata=0&followup=1)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fzinnah17&show_icons=true&theme=radical&cache_seconds=0)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fzinnah17&layout=compact)](https://github.com/fzinnah17/github-readme-stats)
+
+
 
 
 <!--
