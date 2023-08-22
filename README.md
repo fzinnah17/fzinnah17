@@ -21,7 +21,7 @@
 
 
 <p align="center">
-  ![Visitors](https://visitor-badge.glitch.me/badge?page_id=fzinnah17.fzinnah17)
+  ![Profile views](https://gpvc.arturio.dev/fzinnah17)
 </p>
 
 
