@@ -24,11 +24,10 @@
 
   <table>
     <tr>
-      <th>Views</th>
     </tr>
     <tr>
       <td>
-         <a href="https://github.com/fzinnah17"> <img src="https://komarev.com/ghpvc/?username=fzinnah17&style=for-the-badge&color=lightblue"> </a>
+         <a href="https://github.com/fzinnah17"> <img src="https://komarev.com/ghpvc/?username=fzinnah17&style=for-the-badge&color=blueviolet"> </a>
       </td>
     </tr>
   </table>
