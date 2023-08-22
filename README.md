@@ -19,9 +19,9 @@
   </a>
 </p>
 
-  <td valign="center">
+  <table valign="center">
          <a href="https://github.com/fzinnah17"> <img src="https://komarev.com/ghpvc/?username=fzinnah17&style=for-the-badge&color=blueviolet"> </a>
-  </td>
+  </table>
 
 
 
