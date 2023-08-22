@@ -69,7 +69,7 @@
     <img src="https://quolum.com/blog/wp-content/uploads/2023/01/coverimage.png" width="24"/>
 </p>
 
-## GitHub Statistics:
+## GitHub Metrics:
 
 <table width="100%">
   <tr>
@@ -95,14 +95,3 @@
     </td>
   </tr>
 </table>
-
-<!-- <table width = "100%">
-  <tr>
-    <td valign="top" width="50%">
-
-![Metrics](https://metrics.lecoq.io/fzinnah17)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fzinnah17&show_icons=true&theme=radical&cache_seconds=0)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fzinnah17&layout=compact)](https://github.com/fzinnah17/github-readme-stats)
-
-  </tr>
-</table> -->
