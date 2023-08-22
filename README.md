@@ -5,18 +5,10 @@
 </p>
 
 <p align="center">
-  🎓 <b>Computer Engineering Honors</b> from <i>CCNY</i> <br>
-  💻 Skilled in <b>JavaScript, Python, Kotlin, Java</b> and more <br>
-  🛠 Former Software Developer at <b>Con Edison, The Difference</b> <br>
-  🌍 Passionate about <b>intuitive UX</b> and <b>collaborative technology</b> <br>
-</p>
-
----
-
-<p align="center">
-  🏋️‍♂️ On the personal side: weightlifting, traveling, and continuous learning <br>
-  📖 A mentor, advocate for accessible tech, and committed to making a difference<br>
-  🤝 Let's connect and shape the future together!
+  🎓 Computer Engineering Honors Grad from CCNY | 💻 Proficient in JavaScript, Python & more <br>
+  🛠 Developed solutions at Con Edison & crafted apps with Flutter & React | 🌍 Passionate about intuitive UX and collaborative tech <br>
+  🏋️‍♂️ Beyond coding: weightlifting, reading, and travelling | 📖 Collaborative leader, mentor, & advocate for accessible tech <br>
+  🤝 Let's shape the future together.
 </p>
 
 
