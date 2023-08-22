@@ -1,8 +1,16 @@
 ### Hi there 👋
 
-![My Banner](https://github.com/fzinnah17/fzinnah17/blob/main/git.png)
+<p align="center">
+  <img src="https://github.com/fzinnah17/fzinnah17/blob/main/git.png" alt="My Banner"><br>
+</p>
 
-🎓 Computer Engineering Honors Grad from CCNY | 💻 Proficient in JavaScript, Python & more | 🛠 Developed solutions at Con Edison & crafted apps with Flutter & React | 🌍 Passionate about intuitive UX and collaborative tech | 🏋️‍♂️ Beyond coding: weightlifting, reading, travelling & continuous learning | 📖 Collaborative leader, mentor, & advocate for accessible tech | 🤝 Let's shape the future together...
+<p align="center">
+  🎓 Computer Engineering Honors Grad from CCNY | 💻 Proficient in JavaScript, Python & more <br>
+  🛠 Developed solutions at Con Edison & crafted apps with Flutter & React | 🌍 Passionate about intuitive UX and collaborative tech <br>
+  🏋️‍♂️ Beyond coding: weightlifting, reading, travelling & continuous learning | 📖 Collaborative leader, mentor, & advocate for accessible tech <br>
+  🤝 Let's shape the future together.
+</p>
+
 
 <table>
   <tr>
