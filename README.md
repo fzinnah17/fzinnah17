@@ -71,7 +71,25 @@
 
 ## GitHub Statistics:
 
-<table>
+<table width="100%">
+  <tr>
+    <td valign="center" width="50%">
+        <img src="https://metrics.lecoq.io/fzinnah17" alt="Metrics">
+    </td>
+    <td valign="center" width="50%">
+        <a href="https://github.com/fzinnah17/github-readme-stats">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fzinnah17&layout=compact" alt="Top Languages">
+        </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=fzinnah17&show_icons=true&theme=radical&cache_seconds=0" alt="GitHub Stats">
+    </td>
+  </tr>
+</table>
+
+<!-- <table width = "100%">
   <tr>
     <td valign="top" width="50%">
 
@@ -80,4 +98,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fzinnah17&layout=compact)](https://github.com/fzinnah17/github-readme-stats)
 
   </tr>
-</table>
+</table> -->
