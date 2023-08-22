@@ -1,6 +1,13 @@
 <h1>Hi 👋, I am Farnaz</h1>
 
 <p align="center">
+🧘🏻‍♀️ Full-time SWE roles 📍 New York City  <br>
+📝 [<a href="https://drive.google.com/file/d/1Ob2PkmUj22DiadrF4dFDjvHCkcD8Eoe9/view" target="_blank">Resume</a>]  
+📇 [<a href="https://www.linkedin.com/in/farnaz-zinnah/" target="_blank">LinkedIn</a>]  <br>
+🖋️ [<a href="mailto:farnazsamia@gmail.com">Reach out to me</a>]
+</p>
+
+<p align="center">
   <img src="https://github.com/fzinnah17/fzinnah17/blob/main/git.png" alt="My Banner"><br>
 </p>
 
