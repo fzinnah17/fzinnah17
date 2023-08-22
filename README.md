@@ -5,15 +5,15 @@
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1Ob2PkmUj22DiadrF4dFDjvHCkcD8Eoe9/view" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-View-brightgreen" alt="Resume Badge">
+    <img src="https://img.shields.io/badge/Resume-brightgreen" alt="Resume Badge">
   </a>
 
   <a href="https://www.linkedin.com/in/farnaz-zinnah/" target="_blank">
-    <img src="https://img.shields.io/badge/Profile-View-orange" alt="LinkedIn Badge">
+    <img src="https://img.shields.io/badge/LinkedIn-orange" alt="LinkedIn Badge">
   </a>
 
   <a href="mailto:farnazsamia@gmail.com">
-    <img src="https://img.shields.io/badge/Email-View-blueviolet" alt="Email Badge">
+    <img src="https://img.shields.io/badge/Email-blueviolet" alt="Email Badge">
   </a>
 </p>
 
