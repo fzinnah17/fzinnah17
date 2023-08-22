@@ -3,11 +3,18 @@
 <p align="center">
 🧘🏻‍♀️ Full-time SWE roles 📍 New York City  <br>
 
-📝 ![Static Badge](https://img.shields.io/badge/Resume-View-brightgreen?color=brightgreen&link=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1Ob2PkmUj22DiadrF4dFDjvHCkcD8Eoe9%2Fview)
+<table align="center">
+    <tr>
+<td> 📝 ![Static Badge](https://img.shields.io/badge/Resume-View-brightgreen?color=brightgreen&link=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1Ob2PkmUj22DiadrF4dFDjvHCkcD8Eoe9%2Fview)
+</td>
 
-📇 ![Static Badge](https://img.shields.io/badge/Profile-View-orange?link=farnazsamia%40gmail.com)
+<td> 📇 ![Static Badge](https://img.shields.io/badge/Profile-View-orange?link=farnazsamia%40gmail.com)
+</td>
 
-🖋️ ![Static Badge](https://img.shields.io/badge/Email-View-blueviolet?link=farnazsamia%40gmail.com)
+<td> 🖋️ ![Static Badge](https://img.shields.io/badge/Email-View-blueviolet?link=farnazsamia%40gmail.com)
+</td>
+</tr>
+</table>
 </p>
 
 <p align="center">
