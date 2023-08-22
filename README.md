@@ -75,17 +75,23 @@
   <tr>
     <!-- Metrics Image -->
     <td align="center" width="50%">
-        ![Metrics](https://metrics.lecoq.io/fzinnah17)
+        <a href="https://github.com/fzinnah17">
+            <img src="https://metrics.lecoq.io/fzinnah17" alt="Metrics">
+        </a>
     </td>
     <!-- Most Used Languages Image -->
     <td align="center" width="50%">
-        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fzinnah17&layout=compact)](https://github.com/fzinnah17/github-readme-stats)
+        <a href="https://github.com/fzinnah17/github-readme-stats">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fzinnah17&layout=compact" alt="Top Langs">
+        </a>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
         <!-- GitHub Stats Image -->
-        ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fzinnah17&show_icons=true&theme=radical&cache_seconds=0)
+        <a href="https://github.com/fzinnah17">
+            <img src="https://github-readme-stats.vercel.app/api?username=fzinnah17&show_icons=true&theme=radical&cache_seconds=0" alt="GitHub stats">
+        </a>
     </td>
   </tr>
 </table>
