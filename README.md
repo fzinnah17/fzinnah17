@@ -2,9 +2,9 @@
 
 <p align="center">
 🧘🏻‍♀️ Full-time SWE roles 📍 New York City  <br>
-📝 [<a href="https://drive.google.com/file/d/1Ob2PkmUj22DiadrF4dFDjvHCkcD8Eoe9/view" target="_blank">Resume</a>]  
-📇 [<a href="https://www.linkedin.com/in/farnaz-zinnah/" target="_blank">LinkedIn</a>]  <br>
-🖋️ [<a href="mailto:farnazsamia@gmail.com">Reach out to me</a>]
+📝 [![Resume](https://img.shields.io/badge/Resume-%230077B5.svg?&style=for-the-badge&logo=adobe&logoColor=white&color=2bbc8a)](https://drive.google.com/file/d/1Ob2PkmUj22DiadrF4dFDjvHCkcD8Eoe9/view)
+📇 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/farnaz-zinnah/)
+🖋️ [![Email](https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:farnazsamia@gmail.com)
 </p>
 
 <p align="center">
