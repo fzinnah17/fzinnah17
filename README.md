@@ -1,4 +1,4 @@
-<h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, I am Farnaz</h1>
+<h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, I am Farnaz!!</h1>
 
 
 <p align="center">
@@ -43,6 +43,28 @@
 
   </tr>
 </table>
+
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Languages and Tools:
+
+<p align="center" > 
+    <img src="https://img.icons8.com/fluency/48/000000/javascript.png"/>
+    <img src="https://img.icons8.com/fluency/48/000000/python.png"/>
+    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+    <img src="https://img.icons8.com/fluency/48/000000/markdown.png"/>
+    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+    <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
+</p>
+</br>
+
+<p align="center" > 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width="48"/>
+    <img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" width="48"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48"/>
+    <img src="https://avatars.githubusercontent.com/u/67109815?s=280&v=4" width="48"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" width="48"/>
+    <img src="https://www.datocms-assets.com/45470/1631026680-logo-react-native.png" width="48"/>
+</p>
 
 </br>
 <p align="center" > 
