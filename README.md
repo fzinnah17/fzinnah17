@@ -58,7 +58,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" width="28"/>
     <img src="https://cdn-icons-png.flaticon.com/512/2867/2867342.png" width="28"/>
     <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="28"/>
-    <img src="https://icons8.com/icon/v551nqGeHhGn/github" width="28"/>
+    <img src="![Alt text](image.png)" width="28"/>
     <img src="https://msdynamicsnavashwinitripathi.files.wordpress.com/2021/01/docker_logo.png" width="28"/>
     <img src="https://static-00.iconduck.com/assets.00/postman-icon-497x512-beb7sy75.png" width="28"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/2560px-AWS_Simple_Icons_AWS_Cloud.svg.png" width="28"/>
