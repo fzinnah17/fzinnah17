@@ -21,7 +21,7 @@
 
 
 <p align="center">
-  ![Profile views](https://gpvc.arturio.dev/fzinnah17)
+  ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Ffzinnah17%2Ffzinnah17)
 </p>
 
 
