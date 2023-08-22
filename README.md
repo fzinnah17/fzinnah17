@@ -7,7 +7,7 @@
 <p align="center">
   🎓 Computer Engineering Honors Grad from CCNY | 💻 Proficient in JavaScript, Python & more <br>
   🛠 Developed solutions at Con Edison & crafted apps with Flutter & React | 🌍 Passionate about intuitive UX and collaborative tech <br>
-  🏋️‍♂️ Beyond coding: weightlifting, reading, travelling & continuous learning | 📖 Collaborative leader, mentor, & advocate for accessible tech <br>
+  🏋️‍♂️ Beyond coding: weightlifting, reading, and travelling | 📖 Collaborative leader, mentor, & advocate for accessible tech <br>
   🤝 Let's shape the future together.
 </p>
 
