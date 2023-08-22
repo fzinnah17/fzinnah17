@@ -3,16 +3,18 @@
 <p align="center">
 🧘🏻‍♀️ Full-time SWE roles 📍 New York City  <br>
 
-<table valign="center">
-    <tr>
-    <td> 📝 https://img.shields.io/badge/Resume-brightgreen?color=brightgreen&link=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1Ob2PkmUj22DiadrF4dFDjvHCkcD8Eoe9%2Fview
-</td>
+<p align="center">
+  <a href="https://drive.google.com/file/d/1Ob2PkmUj22DiadrF4dFDjvHCkcD8Eoe9/view" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-View-brightgreen" alt="Resume Badge">
+  </a>
 
-<td> 📇 https://img.shields.io/badge/Profile-orange?link=farnazsamia%40gmail.com </td>
+  <a href="https://www.linkedin.com/in/farnaz-zinnah/" target="_blank">
+    <img src="https://img.shields.io/badge/Profile-View-orange" alt="LinkedIn Badge">
+  </a>
 
-<td> 🖋️ https://img.shields.io/badge/Email-blueviolet?link=farnazsamia%40gmail.com </td>
-  </tr>
-</table>
+  <a href="mailto:farnazsamia@gmail.com">
+    <img src="https://img.shields.io/badge/Email-View-blueviolet" alt="Email Badge">
+  </a>
 </p>
 
 <p align="center">
