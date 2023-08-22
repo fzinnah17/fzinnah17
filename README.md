@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![My Banner](https://github.com/fzinnah17/fzinnah17/blob/main/git.png)
+
+🎓 Computer Engineering Honors Grad from CCNY | 💻 Proficient in JavaScript, Python & more | 🛠 Developed solutions at Con Edison & crafted apps with Flutter & React | 🌍 Passionate about intuitive UX and collaborative tech | 🏋️‍♂️ Beyond coding: weightlifting, reading, travelling & continuous learning | 📖 Collaborative leader, mentor, & advocate for accessible tech | 🤝 Let's shape the future together.
+
 <table>
   <tr>
     <td valign="top" width="50%">
