@@ -1,7 +1,9 @@
 <h1>Hi 👋, I am Farnaz</h1>
 
+
 <p align="center">
 🧘🏻‍♀️ Full-time SWE roles 📍 New York City  <br>
+
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1Ob2PkmUj22DiadrF4dFDjvHCkcD8Eoe9/view" target="_blank">
@@ -16,6 +18,12 @@
     <img src="https://img.shields.io/badge/Email-blueviolet" alt="Email Badge">
   </a>
 </p>
+
+
+<p align="center">
+  ![Visitors](https://visitor-badge.glitch.me/badge?page_id=fzinnah17.fzinnah17)
+</p>
+
 
 <p align="center">
   <img src="https://github.com/fzinnah17/fzinnah17/blob/main/git.png" alt="My Banner"><br>
