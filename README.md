@@ -38,13 +38,6 @@
 
 ![Metrics](https://metrics.lecoq.io/fzinnah17)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fzinnah17&show_icons=true&theme=radical&cache_seconds=0)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fzinnah17&layout=compact)](https://github.com/fzinnah17/github-readme-stats)
-
-  </tr>
-</table>
-
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Languages and Tools:
 
 <p align="center" > 
@@ -81,3 +74,11 @@
     <img src="https://pipedream.com/s.v0/app_1YMhwo/logo/orig" width="48"/>
     <img src="https://quolum.com/blog/wp-content/uploads/2023/01/coverimage.png" width="90"/>
 </p>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=fzinnah17&show_icons=true&theme=radical&cache_seconds=0)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fzinnah17&layout=compact)](https://github.com/fzinnah17/github-readme-stats)
+
+  </tr>
+</table>
+
+
