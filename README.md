@@ -1,4 +1,4 @@
-<h1>Hi 👋, I am Farnaz</h1>
+<h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, I am Farnaz</h1>
 
 
 <p align="center">
@@ -19,10 +19,6 @@
   </a>
 </p>
 
-
-<p align="center">
-  ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Ffzinnah17%2Ffzinnah17)
-</p>
 
 
 <p align="center">
