@@ -1,15 +1,15 @@
-### Hi there, I am Farnaz 👋
+<h1 align="center">Hi 👋, I am Farnaz</h1>
 
-<h1 align="center">
+<p align="center">
   <img src="https://github.com/fzinnah17/fzinnah17/blob/main/git.png" alt="My Banner"><br>
-</h1>
+</p>
 
-<h2 align="center">
+<h3 align="center">
   🎓 Computer Engineering Honors Grad from CCNY <br>
   🛠 Developed solutions at Con Edison & crafted apps with Flutter & React <br>
   🏋️‍♂️ Beyond coding: weightlifting, reading, and travelling | 📖 Collaborative leader, mentor, & advocate for accessible tech <br>
   🤝 Let's shape the future together.
-</h2>
+</h3>
 
 
 <table>
