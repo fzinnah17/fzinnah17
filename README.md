@@ -33,7 +33,7 @@
 
 ## 👩🏻 A bit about me: 
 - 🎓 Computer Engineering Honors Grad from CCNY
-- 🛠 Developed & crafted apps at Con Edison & TheDifference with Python, SQL, Flutter & React
+- 🛠 Developed & crafted apps at <a href="https://www.coned.com/en/" target="_blank"> Con Edison </a> & <a href="https://thedifferenceapp.com/" target="_blank"> The Difference </a> with Python, SQL, Flutter & React
 - 🏋️‍♂️ Beyond coding: weightlifting, reading, and travel
 - 📖 Collaborative leader, mentor, & tech accessibility advocate
 
