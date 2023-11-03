@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1Ob2PkmUj22DiadrF4dFDjvHCkcD8Eoe9/view" target="_blank">
+  <a href="https://drive.google.com/file/d/1NUYPlBQPpFuV2LV2Yeo7qOvvzSLQsyyf/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-brightgreen" alt="Resume Badge">
   </a>
 
