@@ -1,7 +1,11 @@
+<p align="center">
+  <img src="https://github.com/fzinnah17/fzinnah17/blob/main/git.png" alt="My Banner"><br>
+</p>
+
 <h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, I am Farnaz!!</h1>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1NUYPlBQPpFuV2LV2Yeo7qOvvzSLQsyyf/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1eCknffq4eVT3MJgWQ0BVS0pXEeaC98zQ/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-brightgreen" alt="Resume Badge">
   </a>
 
@@ -18,10 +22,6 @@
          <a href="https://github.com/fzinnah17"> <img src="https://komarev.com/ghpvc/?username=fzinnah17&style=for-the-badge&color=blueviolet"> </a>
   </table>
 
-<p align="center">
-  <img src="https://github.com/fzinnah17/fzinnah17/blob/main/git.png" alt="My Banner"><br>
-</p>
-
 <div align="center">
   
 | from 🏠         | in 📍               | Open to 🧘🏻‍♀️       | likes stargazing ✨   | My Weightlifting Inspiration 🏋🏼‍♀️ |
@@ -29,8 +29,6 @@
 | Dhaka, Bangladesh | New York City, NY | Entry-level SWE roles | a lot              | [This Gym Enthusiast](https://www.youtube.com/watch?v=Zl_grb33STg) |
 
 </div>
-
-
 
 
 ## 👩🏻 A bit about me: 
