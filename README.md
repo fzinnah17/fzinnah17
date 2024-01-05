@@ -34,7 +34,7 @@
   - Currently automating reports at [Con Edison](https://www.coned.com/en) with Python and SQL.
   - Previously, I developed a cross-platform fitness app at [The Difference](https://thedifferenceapp.com/) with Flutter, PHP, and MySQL.
   - Teaching Assistant at [CodePath](https://www.codepath.org/), leading a full-stack course focused on social impact with HTML, CSS, and JavaScript.
-- 🌟 : Here are some of my [hackathon projects](https://devpost.com/fzinnah000).
+- 🌟 : In my free time, I build [hackathon projects](https://devpost.com/fzinnah000).
 - 🧘 : In stressful times, I practice the [54321 method](https://www.choosingtherapy.com/54321-method/) and [square breathing](https://www.choosingtherapy.com/box-breathing/) to stay focused and present.
 - 📚 : I take great interest in reading. Now I am reading "[Sustenance of the Soul](https://iiit.org/wp-content/uploads/AbuZaydal-Balkhi-complete.pdf)" by Abu Zayd al-Balkhi.
 - 🌱 : Known as a collaborative leader by my juniors, but I enjoy mentoring and learning from others.
