@@ -27,10 +27,10 @@
 </div>
 
 
-## 👩🏻 About Me
+## 👩‍💻 About Me
 
 - 🎓 : Alumna of CCNY with a degree in Computer Engineering.
-- 🛠 :
+- 💻 :
   - Currently automating reports at [Con Edison](https://www.coned.com/en) with Python and SQL.
   - Previously, I developed a cross-platform fitness app at [The Difference](https://thedifferenceapp.com/) with Flutter, PHP, and MySQL.
   - Teaching Assistant at [CodePath](https://www.codepath.org/), leading a full-stack course focused on social impact with HTML, CSS, and JavaScript.
