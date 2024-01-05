@@ -39,9 +39,14 @@
 - 📚 : I take great interest in reading. Now I am reading "[Sustenance of the Soul](https://iiit.org/wp-content/uploads/AbuZaydal-Balkhi-complete.pdf)" by Abu Zayd al-Balkhi.
 - 🌱 : Known as a collaborative leader by my juniors, but I enjoy mentoring and learning from others.
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Languages and Tools:
-
-<p align="center" > 
+<div align="center">
+  
+<table width="100%">
+  <tr>
+    <!-- Left Column: Languages and Tools -->
+    <td valign="top">
+      <h3 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Languages and Tools</h3>
+      <p align="center" > 
     <img src="https://img.icons8.com/fluency/48/000000/javascript.png" width="24"/>
     <img src="https://img.icons8.com/fluency/48/000000/python.png" width="24"/>
     <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="24"/>
@@ -75,34 +80,28 @@
     <img src="https://pipedream.com/s.v0/app_1YMhwo/logo/orig" width="24"/>
     <img src="https://quolum.com/blog/wp-content/uploads/2023/01/coverimage.png" width="24"/>
 </p>
-
-## GitHub Metrics:
-
-<table width="100%">
-  <tr>
-    <!-- Metrics Image -->
-    <td align="center" width="50%">
-        <a href="https://github.com/fzinnah17">
-            <img src="https://metrics.lecoq.io/fzinnah17" alt="Metrics">
-        </a>
     </td>
-    <!-- Most Used Languages Image -->
-    <td align="center" width="50%">
-        <a href="https://github.com/fzinnah17/github-readme-stats">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fzinnah17&layout=compact" alt="Top Langs">
-        </a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-        <!-- GitHub Stats Image -->
-        <a href="https://github.com/fzinnah17">
-            <img src="https://github-readme-stats.vercel.app/api?username=fzinnah17&show_icons=true&theme=radical&cache_seconds=0" alt="GitHub stats">
-        </a>
+    <td>
+      <table>
+        <tr>
+          <!-- Most Used Languages Image -->
+          <td align="center">
+            <a href="https://github.com/fzinnah17/github-readme-stats">
+              <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fzinnah17&layout=compact" alt="Top Langs">
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <!-- GitHub Stats Image -->
+          <td align="center">
+            <a href="https://github.com/fzinnah17">
+              <img src="https://github-readme-stats.vercel.app/api?username=fzinnah17&show_icons=true&theme=radical&cache_seconds=0" alt="GitHub stats">
+            </a>
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
+</div>
 
-  <table valign="center">
-         <a href="https://github.com/fzinnah17"> <img src="https://komarev.com/ghpvc/?username=fzinnah17&style=for-the-badge&color=blueviolet"> </a>
-  </table>
