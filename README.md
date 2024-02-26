@@ -31,7 +31,7 @@
 
 - 🎓 : Alumna of CCNY with a degree in Computer Engineering.
 - 💻 :
-  - Currently automating reports at [Con Edison](https://www.coned.com/en) with Python and SQL.
+  - Currently, develop features with Angular, .NET, C# improving accessibility for visually impaired users at [Con Edison](https://www.coned.com/en).
   - Previously, I developed a cross-platform fitness app at [The Difference](https://thedifferenceapp.com/) with Flutter, PHP, and MySQL.
   - Teaching Assistant at [CodePath](https://www.codepath.org/), leading a full-stack course focused on social impact with HTML, CSS, and JavaScript.
 - 🌟 : In my free time, I build [hackathon projects](https://devpost.com/fzinnah000).
