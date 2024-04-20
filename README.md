@@ -74,7 +74,12 @@
             <img src="https://pipedream.com/s.v0/app_1YMhwo/logo/orig" width="24"/>
           </p>
         </td>
-    <th>Column 3</th>
+    <!-- Most Used Languages Image -->
+              <td align="center">
+                <a href="https://github.com/fzinnah17/github-readme-stats">
+                  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fzinnah17&layout=compact" alt="Top Langs">
+                </a>
+              </td>
   </tr>
   <tr>
     <td colspan="2">Combined Column 1 & 2</td>
