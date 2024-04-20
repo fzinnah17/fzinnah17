@@ -22,7 +22,7 @@
   
 | from 🏠         | in 📍               | Open to 🧘🏻‍♀️       | likes stargazing ✨   | My Weightlifting Inspiration 🏋🏼‍♀️ |
 |:--------------:|:-------------------:|:-------------------:|:--------------------:|:------------------------------------------:|
-| Dhaka, Bangladesh | New York City, NY | Entry-level SWE roles | a lot              | [This Gym Enthusiast](https://www.youtube.com/watch?v=Zl_grb33STg) |
+| Dhaka, Bangladesh | New York City, NY | SWE roles | a lot              | [This Gym Enthusiast](https://www.youtube.com/watch?v=Zl_grb33STg) |
 
 </div>
 
