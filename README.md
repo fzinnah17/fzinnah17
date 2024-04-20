@@ -83,7 +83,12 @@
   </tr>
   <tr>
     <td colspan="2">Combined Column 1 & 2</td>
-    <td>Column 4</td>
+    <!-- GitHub Stats Image -->
+              <td align="center">
+                <a href="https://github.com/fzinnah17">
+                  <img src="https://github-readme-stats.vercel.app/api?username=fzinnah17&show_icons=true&theme=radical&cache_seconds=0" alt="GitHub stats">
+                </a>
+              </td>
   </tr>
 </table>
 </div>
