@@ -31,12 +31,12 @@
 
 - 🎓 : Alumna of CCNY with a degree in Computer Engineering.
 - 💻 :
-  - Currently, develop features with Angular, .NET, C# improving accessibility for visually impaired users at [Con Edison](https://www.coned.com/en).
+  - Currently, develop features with Angular, .NET, and C# improving accessibility for visually impaired users at [Con Edison](https://www.coned.com/en).
   - Previously, I developed a cross-platform fitness app at [The Difference](https://thedifferenceapp.com/) with Flutter, PHP, and MySQL.
-  - Teaching Assistant at [CodePath](https://www.codepath.org/), to mentor students in data structures and algorithms course.
+  - Teaching Assistant at [CodePath](https://www.codepath.org/), to mentor students in data structures and algorithms courses.
 - 🌟 : In my free time, I build [hackathon projects](https://devpost.com/fzinnah000).
 - 🧘 : In stressful times, I practice the [54321 method](https://www.choosingtherapy.com/54321-method/) and [square breathing](https://www.choosingtherapy.com/box-breathing/) to stay focused and present.
-- 📚 : I take great interest in reading. Now I am reading "[I Will Teach You To Be Rich](https://www.iwillteachyoutoberich.com/wp-content/uploads/2023/01/IWillTeachYoutoBeRich-Chapter1.pdf)" by Ramit Sethi.
+- 📚 : I take a great interest in reading. Now I am reading "[I Will Teach You To Be Rich](https://www.iwillteachyoutoberich.com/wp-content/uploads/2023/01/IWillTeachYoutoBeRich-Chapter1.pdf)" by Ramit Sethi.
 - 🌱 : Known as a collaborative leader by my juniors, but I enjoy mentoring and learning from others.
 
 <div align="center">
