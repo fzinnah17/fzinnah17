@@ -20,24 +20,25 @@
 
 <div align="center">
   
-| from 🏠         | in 📍               | Open to 🧘🏻‍♀️       | likes stargazing ✨   | My Weightlifting Inspiration 🏋🏼‍♀️ |
+| from 🏠         | in 📍               | Open to 🧘🏻‍♀️       | likes stargazing ✨   | My recent hobbies 🏓 |
 |:--------------:|:-------------------:|:-------------------:|:--------------------:|:------------------------------------------:|
-| Dhaka, Bangladesh | New York City, NY | SWE roles | a lot              | [This Gym Enthusiast](https://www.youtube.com/watch?v=Zl_grb33STg) |
+| Dhaka, Bangladesh | New York City, NY | AI SWE roles | a lot              | Rope jumping & playing badminton with my brother |
 
 </div>
 
 
 ## 👩‍💻 About Me!
 
-- 🎓 : Alumna of CCNY with a degree in Computer Engineering.
+- 🎓 :
+  - Alumna of [CCNY](https://drive.google.com/file/d/1MfNrsGzwcrn8-5mVy_n6v3XKADOlcFu8/view?usp=sharing) with a degree in Computer Engineering.
+  - Part-time MSc student at [NYU](https://engineering.nyu.edu/), specializing in Artificial Intelligence within Computer Science.
 - 💻 :
-  - Currently, develop features with Angular, .NET, and C# improving accessibility for visually impaired users at [Con Edison](https://www.coned.com/en).
-  - Previously, I developed a cross-platform fitness app at [The Difference](https://thedifferenceapp.com/) with Flutter, PHP, and MySQL.
-  - Teaching Assistant at [CodePath](https://www.codepath.org/), to mentor students in data structures and algorithms courses.
-- 🌟 : In my free time, I build [hackathon projects](https://devpost.com/fzinnah000).
+  - Currently working full-time as an AI Software Engineer at [Con Edison](https://www.coned.com/en), where I enjoy applying my technical skills to address our employees' use cases through innovative solutions.
+  - Previously developed a cross-platform fitness app at [The Difference](https://thedifferenceapp.com/) with Flutter, PHP, and MySQL.
+  - Teaching Assistant at [CodePath](https://drive.google.com/file/d/13SDDKQhcHwltbEbYLOlqXj24Stvk8anU/view?usp=sharing), to mentor students in data structures and algorithms courses. In high school, classmates often wished I could be their math teacher or college advisor. That spirit only grew stronger in college, where helping others find their path in Computer Science became a true passion.
+- 🌟 : In my free time, I [mentor](https://drive.google.com/file/d/1ABnu_hmF0BEEZ353RyoYk_mnL0Uwii_U/view?usp=sharing) at hackathons and sometimes build [projects](https://devpost.com/fzinnah000). Recently, I mentored at [MIT](https://drive.google.com/file/d/1dM9khDS-JL1xjiDfqmGpTE81I_-mpZOE/view?usp=drive_link) and [Columbia University](https://drive.google.com/file/d/1lxlYoh0tCmBIcYjahE7flpQlZxWecx5x/view?usp=sharing).
 - 🧘 : In stressful times, I practice the [54321 method](https://www.choosingtherapy.com/54321-method/) and [square breathing](https://www.choosingtherapy.com/box-breathing/) to stay focused and present.
-- 📚 : I take a great interest in reading. Now I am reading "[I Will Teach You To Be Rich](https://www.iwillteachyoutoberich.com/wp-content/uploads/2023/01/IWillTeachYoutoBeRich-Chapter1.pdf)" by Ramit Sethi.
-- 🌱 : Known as a collaborative leader by my juniors, but I enjoy mentoring and learning from others.
+- 📚 : I have a great interest in reading, though I’m not reading anything at the moment due to my busy schedule.
 
 <div align="center">
     <table style="width: 100%">
